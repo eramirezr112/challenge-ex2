@@ -1,4 +1,8 @@
-# challenge-ex2
+# Challenge Ex2 Outcoding
+
+## Project Instructions
+1. Clone this Repository
+2. Run the next "Project Setup" 
 
 ## Project setup
 ```
@@ -10,15 +14,5 @@ yarn install
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Time Spent
+12 hours
